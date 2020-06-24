@@ -13,5 +13,3 @@ ONOS = controller("ONOS", "172.17.0.5", "8181", "/onos/v1", "onos", "rocks")
 #ONOS.get_all_devices()
 #ONOS.get_all_hosts()
 #ONOS.get_all_links()
-
-#3 more functions are added
