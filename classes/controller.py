@@ -609,3 +609,4 @@ class controller:
         else:
 
             print(color.fail + "Connection failed." + color.end_color)
+#3 more functions are added
